@@ -1,7 +1,4 @@
-# hello-world
-Test project
-I am learning how to use Github
-Making changes to Test1
-Test1
-Test1
-Editing from Git
+VPC
+    - 2 Public/ Private Subnet Pairs
+    - Internet Gateway + NAT Gateway
+    - Linux Bastion Host
